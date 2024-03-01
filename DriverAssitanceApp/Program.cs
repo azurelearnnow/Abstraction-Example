@@ -12,7 +12,7 @@ namespace DriverAssitanceApp
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Which car you want to drive ?");
+            Console.WriteLine("Which car you want to drive ? hello");
              
             string cartype= Console.ReadLine();
 
